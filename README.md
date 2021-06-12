@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina)](https://github.com/FernandoMMarina/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)
 
 
 <!--
