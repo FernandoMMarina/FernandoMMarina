@@ -1,5 +1,5 @@
 
-<h1> My Github Stats </h1>
+<h1 align="center"> My Github Stats </h1>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)
