@@ -1,3 +1,14 @@
+<Style>
+  h1{
+  text-aling:center;
+  }
+  h1:hover{
+  color:#7E3ACE;
+  }
+  
+</Style>  
+
+
 <h1> My Github Stats </h1>
 <br>
 
