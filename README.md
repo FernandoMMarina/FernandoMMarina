@@ -1,7 +1,7 @@
 
-<h1 style="text-align:center;"> My Github Stats </h1>
+<h1> My Github Stats </h1>
 <br>
-<style> h1:hover{color:#7E3ACE;} </style> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMMarina&langs_count=8&theme=midnight-purple)](https://github.com/FernandoMMarina/github-readme-stats&theme=midnight-purple)
 
