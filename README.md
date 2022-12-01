@@ -6,10 +6,10 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,react,java,spring,msql" />
   </a>
 </p>
-<div>
+<
 <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)]
- </div>
+  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)
+ 
  
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMMarina&langs_count=8&theme=midnight-purple)](https://github.com/FernandoMMarina/github-readme-stats&theme=midnight-purple)
 <br>
