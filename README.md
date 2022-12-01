@@ -9,12 +9,8 @@
 
 <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple)
-<br>
-
-
-  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMMarina&langs_count=8&theme=midnight-purple)](https://github.com/FernandoMMarina/github-readme-stats&theme=midnight-purple)
-  <br>
+ <br>
 
 
 
