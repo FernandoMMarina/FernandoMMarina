@@ -16,24 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoMMarina&show_icons=true&theme=midnight-purple" alt="fernandommarina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandommarina&" alt="fernandommarina" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,react,java,spring,msql" />
-  </a>
-</p>
-
  
 
 <!--
